@@ -27,8 +27,8 @@ for result in results:
 
 file_path = '/home/train59/AITP2020-DS-Challenge/outputs/'
 
-fh = open(f'/home/train59/AITP2020-DS-Challenge/outputs/hieght.txt', 'w')
-fd = open(f'/home/train59/AITP2020-DS-Challenge/outputs/diameter.txt', 'w')
+fh = open(f'/home/train59/AITP2020-DS-Challenge/outputs/hieght.csv', 'w')
+fd = open(f'/home/train59/AITP2020-DS-Challenge/outputs/diameter.csv', 'w')
 
 re_pattern = r'(.*):(.*):(.*):(.*):(.*):(.*):(.*):(.*)'
 
